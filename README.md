@@ -1,6 +1,6 @@
 # mailQueue
 简单的stmp邮件队列，wordpress配合这个玩意评论加速。  
-#使用方法：  
+# 使用方法：  
 设置一个token，设置smtp参数，post提交就完事~  
 
  ```
